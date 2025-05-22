@@ -1,8 +1,8 @@
-# AutocompleterAngular
+# Autocompleter Angular
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.12.
 
-# Proyecto para testear Autocompleter-CABA en angular
+# Proyecto para testear Autocompleter-CABA en Angular
 
 ### Herramientas necesarias para levantar el proyecto
 
